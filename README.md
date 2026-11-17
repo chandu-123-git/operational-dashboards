@@ -6,9 +6,9 @@ This repository contains the application source code. Use the application alongs
 
 ## Live Application
 
-**Application link:** *Add the verified GitHub Pages URL after publishing.*
+**Application Link:** https://chandu-123-git.github.io/operational-dashboards/
 
-Once published, students can open the link directly in a browser without installing anything.
+Open the application directly in your browser. No installation or sign-in is required.
 
 ## Technologies Used
 
